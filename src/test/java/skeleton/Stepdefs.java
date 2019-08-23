@@ -12,7 +12,7 @@ import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 
 
-public class casestudy21 {
+public class Stepdefs{
 	 static WebDriver driver;
 	
 	@Given("TestMe App is launched")
