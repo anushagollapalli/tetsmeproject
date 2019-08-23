@@ -1,4 +1,4 @@
-package casestudy_cucum;
+package skeleton;
 
 import java.util.concurrent.TimeUnit;
 
